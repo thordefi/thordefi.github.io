@@ -1,0 +1,18 @@
+
+    <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>ThorDEFI.dev </title>
+    <link>https://thordefi.dev</link>
+    <description>ThorDEFI.dev 's blog</description>
+    <atom:link href="https://thordefi.dev/rss.xml" rel="self" type="application/rss+xml" />
+    
+          <item>
+            <guid>https://thordefi.dev/posts/2022-07-15-THORSwap-QandA</guid>
+            <title>Transcription of THORSwap Q&A</title>
+            <description> listen yourself</description>
+            <link>https://thordefi.dev/posts/2022-07-15-THORSwap-QandA</link>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+        </item>
+      
+  </channel>
+</rss>
